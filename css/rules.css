@@ -1,0 +1,34 @@
+/* 
+I just wanted to write out the assignment instructions on my webpage (in a sepeerate css file so i can hide/deal with it easily)
+*/
+.rules-container {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    padding: 5px;
+}
+
+.rules-box {
+    padding: 20px;
+}
+
+.rules {
+    background-color: #e6e6e6;
+    border: 1px solid #000;
+    border-radius: 10px;     
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5); 
+    margin: 0 auto;
+}
+
+
+.assets-box {
+    padding: 20px;
+}
+
+.assets {
+    background-color: #e6e6e6;
+    border: 1px solid #000;
+    border-radius: 10px;   
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.5); 
+    margin: 0 auto;
+}
